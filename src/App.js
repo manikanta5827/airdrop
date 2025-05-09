@@ -1,4 +1,3 @@
-import './App.css';
 import AirdropPage from './components/AirdropPage';
 
 function App() {
